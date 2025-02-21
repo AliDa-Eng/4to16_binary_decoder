@@ -13,8 +13,8 @@ This project implements a **4-to-16 binary decoder** using Verilog. A binary dec
 
 ## **📺 Demonstration**
 🔹 **YouTube Video - Live Demonstration**  
-[▶ Watch the Simulation](https://www.youtube.com/watch?v=https://youtube.com/shorts/nVTNnknbESs?si=h9pHpikya8esInJw)  
+[▶ Watch the Simulation](=https://youtube.com/shorts/nVTNnknbESs?si=h9pHpikya8esInJw)  
 
 🔹 **YouTube Video - Code Explanation**  
-[▶ Step-by-Step Verilog Code Walkthrough](https://www.youtube.com/watch?v=https://youtu.be/ZcCT-lXGTdQ)  
+[▶ Step-by-Step Verilog Code Walkthrough](=https://youtu.be/ZcCT-lXGTdQ)  
 
